@@ -1,2 +1,3 @@
 # studioTrendy
-Php project 
+Simple php project for studies
+
